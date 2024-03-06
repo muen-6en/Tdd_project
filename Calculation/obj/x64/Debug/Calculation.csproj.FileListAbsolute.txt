@@ -1,0 +1,16 @@
+D:\work\Study\programing\C#\TDD\Calculation\bin\x64\Debug\Calculation.exe.config
+D:\work\Study\programing\C#\TDD\Calculation\bin\x64\Debug\Calculation.exe
+D:\work\Study\programing\C#\TDD\Calculation\bin\x64\Debug\Calculation.pdb
+D:\work\Study\programing\C#\TDD\Calculation\obj\x64\Debug\MainWindow.g.cs
+D:\work\Study\programing\C#\TDD\Calculation\obj\x64\Debug\App.g.cs
+D:\work\Study\programing\C#\TDD\Calculation\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\work\Study\programing\C#\TDD\Calculation\obj\x64\Debug\Calculation_MarkupCompile.cache
+D:\work\Study\programing\C#\TDD\Calculation\obj\x64\Debug\Calculation_MarkupCompile.lref
+D:\work\Study\programing\C#\TDD\Calculation\obj\x64\Debug\MainWindow.baml
+D:\work\Study\programing\C#\TDD\Calculation\obj\x64\Debug\Calculation.g.resources
+D:\work\Study\programing\C#\TDD\Calculation\obj\x64\Debug\Calculation.Properties.Resources.resources
+D:\work\Study\programing\C#\TDD\Calculation\obj\x64\Debug\Calculation.csproj.GenerateResource.cache
+D:\work\Study\programing\C#\TDD\Calculation\obj\x64\Debug\Calculation.csproj.CoreCompileInputs.cache
+D:\work\Study\programing\C#\TDD\Calculation\obj\x64\Debug\Calculation.exe
+D:\work\Study\programing\C#\TDD\Calculation\obj\x64\Debug\Calculation.pdb
+D:\work\Study\programing\C#\TDD\Calculation\obj\x64\Debug\Calculation.csprojAssemblyReference.cache

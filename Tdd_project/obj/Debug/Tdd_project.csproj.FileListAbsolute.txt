@@ -1,7 +1,6 @@
 D:\work\Study\programing\C#\TDD\Tdd_project\bin\Debug\Tdd_project.exe.config
 D:\work\Study\programing\C#\TDD\Tdd_project\bin\Debug\Tdd_project.exe
 D:\work\Study\programing\C#\TDD\Tdd_project\bin\Debug\Tdd_project.pdb
-D:\work\Study\programing\C#\TDD\Tdd_project\obj\Debug\Tdd_project.csprojAssemblyReference.cache
 D:\work\Study\programing\C#\TDD\Tdd_project\obj\Debug\MainWindow.g.cs
 D:\work\Study\programing\C#\TDD\Tdd_project\obj\Debug\App.g.cs
 D:\work\Study\programing\C#\TDD\Tdd_project\obj\Debug\Tdd_project_MarkupCompile.cache
@@ -14,3 +13,4 @@ D:\work\Study\programing\C#\TDD\Tdd_project\obj\Debug\Tdd_project.csproj.CoreCom
 D:\work\Study\programing\C#\TDD\Tdd_project\obj\Debug\Tdd_project.exe
 D:\work\Study\programing\C#\TDD\Tdd_project\obj\Debug\Tdd_project.pdb
 D:\work\Study\programing\C#\TDD\Tdd_project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\work\Study\programing\C#\TDD\Tdd_project\obj\Debug\Tdd_project.csprojAssemblyReference.cache
